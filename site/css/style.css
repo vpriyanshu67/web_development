@@ -1,0 +1,74 @@
+body {
+	font-size :16px;
+	color : #fff;
+	background-color : #61122F;
+	font-family : "Roboto",sans-serif;
+	
+}
+
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+#logo-img{
+	background: url('In-Yoga.jpg') no-repeat;
+	width: 238px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+}
+
+.navbar{
+	padding-top:25 px;
+}
+.navbar-brand h1{
+	font-family : "Roboto",sans-serif;
+	color : #55c3e;
+	font-size: 1.5em;
+	text-transform:uppercase;
+	font-weight: bold;
+	text-shadow:1px 1px 1px #222;
+	margin-top :0;
+	margin-bottom:0;
+	line-height:.75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration:none;
+}
+
+#nav-list{
+	margin-top:10px;
+}
+
+#nav-list a{
+	color: #951C49;
+	text-align: center;
+}
+
+#nav-list a:hover{
+    background: #E7E7E7;
+}
+
+#nav-list a span{
+	font-size: 1.8em;
+}
+
+#phone{
+	margin-top:5px;
+}
+
+#phone a{
+	text-align:right;
+	padding-bottom:0;
+}
+
+.navbar-header button.navbar-toogle, .navbar-header .icon-bar{
+	border:1px solid #61122f;
+}
+
+.navbar-header button.navbar-toogle{
+	clear:both;
+	margin-top: -30px;
+}
