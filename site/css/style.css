@@ -72,3 +72,18 @@ body {
 	clear:both;
 	margin-top: -30px;
 }
+
+@media(min-width:1200px){
+	
+}
+
+@media(min-width:992px) and @media(max-width:1199px){
+	
+}
+@media(min-width:768px) and @media(max-width:991px){
+	
+}
+
+@media(max-width:767px){
+	
+}

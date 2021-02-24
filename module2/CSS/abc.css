@@ -1,0 +1,255 @@
+body {
+	font-size :16px;
+	color : Black;
+	margin : 0;
+	font-family : "Roboto",sans-serif;
+	
+}
+
+#header{
+	text-align: center;
+}
+
+.row{
+	 align : center;
+		margin-left:auto;
+	margin-right:auto;
+		border-radius: 0;
+	border: 0;
+	padding-left : 4%;
+}
+
+
+
+@media(min-width:992px){
+	.element1{
+	display: inline-block;  
+	 vertical-align: middle;
+	font-family : "Roboto",sans-serif;
+	background-color : grey;
+	color : #55c3e;
+	font-size: 15px;
+	border:solid black; 
+	line-height:1;
+   
+	width:30.33%;
+	height: 150px;
+
+	margin-left:auto;
+	margin-right:auto;
+	padding :0px 5px 5px  5px;
+}
+	.element2{
+	display: inline-block;
+	 vertical-align: middle;
+	 hori
+	font-family : "Roboto",sans-serif;
+	background-color : grey;
+	color : #55c3e;
+	font-size: 15px;
+	border:solid black; 
+	line-height:1;
+    
+	width:30.33%;
+	height: 150px;
+	margin-left:auto;
+	margin-right:auto;
+	padding :0px 5px 5px  5px;
+}
+	.element3{
+	display: inline-block;
+	 vertical-align: middle;
+	font-family : "Roboto",sans-serif;
+	background-color : grey;
+	color : #55c3e;
+	font-size: 15px;
+	border:solid black; 
+	line-height:1;
+  
+	height: 150px;
+	width:30.33%;
+		margin-left:auto;
+	margin-right:auto;
+	
+	padding :0px 5px 5px  5px;
+}
+
+
+
+#beefheading{
+	float : right;
+    width: 33.33%;
+	height: 25px;
+	text-align: center;
+    border:solid black; 
+	background-color : pink;
+    margin-right:-5px;
+
+	border-top-width : 0px;
+	border-right-width : 0px;
+}
+#beefheading3{
+	float : right;
+    width: 33.33%;
+	height: 25px;
+	text-align: center;
+    border:solid black; 
+	background-color : pink;
+    margin-right:-5px;
+
+	border-top-width : 0px;
+	border-right-width : 0px;
+}
+#chickencontent{
+	margin-top : 20px;
+}
+}
+
+@media(min-width:768px) and (max-width:991px){
+	.element1{
+	display: inline-block;
+	font-family : "Roboto",sans-serif;
+	background-color : grey;
+	color : #55c3e;
+	font-size: 15px;
+	border:solid black; 
+	line-height:1;
+    width: 43%;
+	
+		margin-left:auto;
+	margin-right:auto;
+	padding :0px 5px 5px  5px;
+}
+	.element2{
+	display: inline-block;
+	font-family : "Roboto",sans-serif;
+	background-color : grey;
+	color : #55c3e;
+	font-size: 15px;
+	border:solid black; 
+	line-height:1;
+    width: 43%;
+	
+		margin-left:auto;
+	margin-right:auto;
+	padding :0px 5px 5px  5px;
+}
+	.element3{
+	display: inline-block;
+	font-family : "Roboto",sans-serif;
+	background-color : grey;
+	color : #55c3e;
+	font-size: 15px;
+	border:solid black; 
+	line-height:1;
+    width: 88.8%;
+	
+			margin-left:auto;
+	margin-right:auto;
+	padding :0px 5px 5px  5px;
+	margin-top : 1%;
+}
+
+
+
+#beefheading{
+	float : right;
+    width: 33.33%;
+	height: 25px;
+	text-align: center;
+    border:solid black; 
+	background-color : pink;
+    margin-right:-5px;
+
+	border-top-width : 0px;
+	border-right-width : 0px;
+	
+}
+#beefheading3{
+	float : right;
+    width: 12.33%;
+	height: 25px;
+	text-align: center;
+    border:solid black; 
+	background-color : pink;
+  margin-right:-5px;
+	
+ 
+	border-top-width : 0px;
+	border-right-width : 0px;
+}
+#chickencontent{
+	margin-top : 20px;
+}
+}
+
+@media(max-width:767px){
+		.element1{
+	display: inline-block;
+	font-family : "Roboto",sans-serif;
+	background-color : grey;
+	color : #55c3e;
+	font-size: 15px;
+	border:solid black; 
+	line-height:1;
+    width: 90%;
+
+	
+	padding :0px 5px 5px  5px;
+}
+	.element2{
+	display: inline-block;
+	font-family : "Roboto",sans-serif;
+	background-color : grey;
+	color : #55c3e;
+	font-size: 15px;
+	border:solid black; 
+	line-height:1;
+    width: 90%;
+	margin-top : 1%;
+	padding :0px 5px 5px  5px;
+}
+	.element3{
+	display: inline-block;
+	font-family : "Roboto",sans-serif;
+	background-color : grey;
+	color : #55c3e;
+	font-size: 15px;
+	border:solid black; 
+	line-height:1;
+    width: 90%;
+margin-top : 1%;
+	padding :0px 5px 5px  5px;
+}
+
+
+
+#beefheading{
+	float : right;
+    width: 33.33%;
+	height: 25px;
+	text-align: center;
+    border:solid black; 
+	background-color : pink;
+    margin-right:-5px;
+
+	border-top-width : 0px;
+	border-right-width : 0px;
+}
+#beefheading3{
+	float : right;
+    width: 33.33%;
+	height: 25px;
+	text-align: center;
+    border:solid black; 
+	background-color : pink;
+  margin-right:-5px;
+	
+ 
+	border-top-width : 0px;
+	border-right-width : 0px;
+}
+#chickencontent{
+	margin-top : 20px;
+}
+}
