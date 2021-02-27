@@ -1,0 +1,64 @@
+body {
+	font-size :16px;
+	background-color : #61122F;
+
+	color : Black;
+	margin : 0;
+	font-family : "Roboto",sans-serif;
+	
+}
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+#logo-img{
+
+	
+}
+
+#nav-list{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+#nav-list a{
+	color: #951C49;
+	text-align: center;
+	background-color: white;
+}
+
+#nav-list a:hover{
+    background: #E7E7E7;
+}
+
+#nav-list a span{
+	font-size: 1.8em;
+}
+ button.navbar-toogle{
+		margin-top: -50px;
+}
+#content{
+	text-align:center;
+	color:white;
+}
+#data{
+	width:90%;
+	background-color: #f6b319;
+}
+@media(min-width:1200px){
+
+	
+}
+
+@media(min-width:992px) and @media(max-width:1199px){
+	
+}
+@media(min-width:768px) and @media(max-width:991px){
+	
+}
+
+@media(max-width:767px){
+	
+}
